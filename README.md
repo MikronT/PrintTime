@@ -2,7 +2,7 @@
 
 A C++ console program that prints current time right down to the millisecond for use in time-dependent Batch scripts
 
-Version: **1.0**
+Version: **1.0.0**
 
 ---
 
